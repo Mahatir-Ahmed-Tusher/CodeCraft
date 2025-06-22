@@ -1,7 +1,10 @@
 import { Card, CardContent, CardDescription, CardHeader, CardTitle } from "@/components/ui/card";
 import { Badge } from "@/components/ui/badge";
 import { Button } from "@/components/ui/button";
-import { useLanguage } from "@/contexts/LanguageContext";
+// TODO: Replace the following mock with the real useLanguage import when LanguageContext is available
+const useLanguage = () => ({
+  t: (key: string) => key // fallback: returns the key itself
+});
 import { 
   Code, 
   Brain, 
