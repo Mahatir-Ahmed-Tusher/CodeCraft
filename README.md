@@ -1,16 +1,20 @@
 # Bolt.new clone
-- Create React frontend with prompts [here](https://bolt-new-olive.vercel.app/)
+- Create React frontend with prompts [here](https://codecraftdev.vercel.app/)
 
-![image](https://github.com/user-attachments/assets/0ba917df-743c-42e5-85ec-5ac5b95795c4)
+  ![image](https://github.com/user-attachments/assets/603e2896-7611-47ab-b78a-42a9a44f0a8c)
 
-- Generating Code
+
+- - Generating Code
+> First code request might take some time 
+![Dream 1](https://github.com/user-attachments/assets/282d3019-d881-45a3-a910-40886953cdbe)
+
+
+ ![image](https://github.com/user-attachments/assets/9a25d030-4ddc-4ff2-9ff6-d0482d5287a1)
+
   
-> First code request might take some time because it's backend is deployed on render
-  ![image](https://github.com/user-attachments/assets/866b5702-41d7-4719-943a-6d3065b309f4)
-  
-![image](https://github.com/user-attachments/assets/6e1cb4e7-7d56-464d-b9ff-51e4ea38459c)
+![This right here, I call dream](https://github.com/user-attachments/assets/451dd3cc-ea8c-4e75-b561-bccb2f013b0c)
 
-![image](https://github.com/user-attachments/assets/3fc2a964-13ca-4573-b739-7f44a2322b65)
+
 
 
 ## Getting Started
