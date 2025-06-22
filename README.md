@@ -1,4 +1,4 @@
-# Bolt.new clone
+# CodeCraft-Build Apps and Analyze Data with AI
 - Create React frontend with prompts [here](https://codecraftdev.vercel.app/)
 
   ![image](https://github.com/user-attachments/assets/603e2896-7611-47ab-b78a-42a9a44f0a8c)
