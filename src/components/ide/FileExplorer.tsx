@@ -70,7 +70,7 @@ const FileExplorer: React.FC<FileExplorerProps> = memo(({ onFileSelect }) => {
       const pathParts = file.path.split('/').filter(Boolean);
       let currentPath = '';
       
-      pathParts.forEach((part, index) => {
+      pathParts.forEach((part: string, index: number) => {
         const parentPath = currentPath;
         currentPath = currentPath ? `${currentPath}/${part}` : `/${part}`;
         
