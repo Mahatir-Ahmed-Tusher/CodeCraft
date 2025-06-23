@@ -44,8 +44,8 @@ const ChatView = () => {
 
   // Limited suggestions (3 only)
   const limitedSuggestions = [
-    'Create a landing page',
-    'Build a dashboard',
+    'Create a unit converter',
+    'Make a functional calculator',
     'Make a todo app'
   ];
 

@@ -135,7 +135,7 @@ export default function About() {
         <div className="container mx-auto px-4">
           <div className="max-w-6xl mx-auto">
             <div className="text-center mb-12">
-              <h2 className="text-3xl font-bold mb-4">Meet the Visionary</h2>
+              <h2 className="text-3xl font-bold mb-4">Meet the Founder</h2>
               <p className="text-xl text-muted-foreground">
                 Mahatir Ahmed Tusher - Lead Developer & Innovator
               </p>
@@ -159,10 +159,12 @@ export default function About() {
                       <Github className="w-4 h-4 mr-2" />
                       GitHub
                     </Button>
-                    <Button variant="outline" size="sm">
+                    <Link href="https://in.linkedin.com/in/mahatir-ahmed-tusher-5a5524257" target="_blank" rel="noopener noreferrer">
+                      <Button variant="outline" size="sm">
                       <Linkedin className="w-4 h-4 mr-2" />
                       LinkedIn
-                    </Button>
+                      </Button>
+                    </Link>
                     <Button variant="outline" size="sm">
                       <Mail className="w-4 h-4 mr-2" />
                       Contact

@@ -265,19 +265,19 @@ export default function Landing() {
     {
       name: "Mashrufa Hasnin Nourin",
       role: "Student",
-      content: "CodeCraft helped me quickly prototype an app for a local project in Netrakona. It saved me some time, though I still needed to tweak the code.",
-      rating: 4
+      content: "I used CodeCraft to build a class project with almost no coding experience. The AI-generated code gave me a solid starting point, and I could see changes live as I tweaked my prompt. It made learning React much less intimidating!",
+      rating: 5
     },
     {
       name: "Tanvir Rahman",
       role: "Startup Founder",
-      content: "We used CodeCraft to build an MVP for our Bangladesh-based startup. The tool was helpful, but we had to make a few adjustments for our needs.",
-      rating: 4
+      content: "As a founder, I needed to quickly validate an idea. CodeCraft let me generate a working MVP in a single afternoon. I still had to polish some parts, but it saved us days of setup and boilerplate.",
+      rating: 5
     },
     {
       name: "Farzana Akter",
       role: "UI/UX Designer",
-      content: "I tried CodeCraft for a client demo. It made the process easier, but some features needed manual work.",
+      content: "I tried CodeCraft to prototype a dashboard for a client. The natural language prompts made it easy to experiment with layouts and features. It’s not perfect, but it’s a huge time-saver for early design iterations.",
       rating: 4
     }
   ];
@@ -766,7 +766,7 @@ export default function Landing() {
               Ready to Build Your Next App?
             </h2>
             <p className="text-xl text-muted-foreground mb-8">
-              Join thousands of creators who are building faster with AI
+              Join our journey, let's learn and grow together
             </p>
             
             <div className="flex flex-col sm:flex-row gap-4 justify-center items-center">

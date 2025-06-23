@@ -21,7 +21,7 @@ import { saveAs } from 'file-saver';
 const LoadingSpinner = memo(() => (
   <div className='p-10 bg-gray-900 opacity-60 gap-1 absolute top-0 rounded-lg w-full h-full flex items-center justify-center'>
     <Loader2Icon className={`animate-spin h-10 w-10 text-white`} />
-    <h2 className='text-white font-semibold text-xl'>Generating code...</h2>
+    <h2 className='text-white font-semibold text-xl'>Generating your code...</h2>
   </div>
 ));
 

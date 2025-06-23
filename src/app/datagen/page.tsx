@@ -98,9 +98,9 @@ const DataGenPage = () => {
   ];
 
   const stats = [
-    { label: 'Models Trained', value: '10K+', icon: <Target className="w-5 h-5" /> },
-    { label: 'Datasets Generated', value: '50K+', icon: <Database className="w-5 h-5" /> },
-    { label: 'Active Users', value: '5K+', icon: <Brain className="w-5 h-5" /> },
+    { label: 'Total Features', value: '20+', icon: <Target className="w-5 h-5" /> },
+    { label: 'Datasets Generated', value: '100+', icon: <Database className="w-5 h-5" /> },
+    { label: 'Active Users', value: '50+', icon: <Brain className="w-5 h-5" /> },
     { label: 'Success Rate', value: '98%', icon: <TrendingUp className="w-5 h-5" /> }
   ];
 
